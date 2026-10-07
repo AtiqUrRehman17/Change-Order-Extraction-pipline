@@ -1,0 +1,45 @@
+{
+  "change_order_number": "CO-044",
+  "project_name": "Riverbend Water Treatment Plant Upgrade",
+  "project_number": "RWT-2025-03",
+  "date": "2025-08-20",
+  "contractor": "Aquatech Constructors",
+  "owner": "City of Riverbend Public Works",
+  "description": "Replace corroded 8\" gate valve at Clarifier #2.",
+  "reason": "Unforeseen condition",
+  "line_items": [
+    {
+      "description": "Labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 3100.0
+    },
+    {
+      "description": "8\" gate valve (material)",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 2640.0
+    },
+    {
+      "description": "Excavator",
+      "category": "equipment",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 450.0
+    }
+  ],
+  "subtotal": 6190.0,
+  "markup_amount": 928.5,
+  "tax_amount": null,
+  "total": 7118.5,
+  "schedule_impact_days": 4,
+  "status": "approved",
+  "requested_by": null,
+  "approved_by": "J. Ramirez",
+  "approval_date": "2025-08-12"
+}

@@ -1,0 +1,29 @@
+{
+  "notes": "Read by hand from page 1 (AIA G701). Pages 2-8 are backup. The owner's signature date is blank, so the change order is still pending; 'January 8, 2021' is the architect's date. There is no written description: the change is only listed as three lines under 'THE CONTRACT IS CHANGED AS FOLLOWS', so description is not scored.",
+  "expected_issues": [],
+  "unscored": ["description"],
+  "truth": {
+    "change_order_number": "10",
+    "project_name": "Marshall Municipal Building",
+    "project_number": "777.01",
+    "date": "2020-11-05",
+    "contractor": "Brennan Construction of MN, Inc.",
+    "owner": "City of Marshall",
+    "description": null,
+    "reason": "PR04; RFI 24; RFI 27",
+    "line_items": [
+      {"description": "Brennan Change Order PR04 Steel Only", "category": "other", "amount": 11129.0},
+      {"description": "Brennan CR 13 Revised Rev 3 RFI 24 Fire Alarm changes", "category": "other", "amount": 6522.0},
+      {"description": "Brennan CR 17 Framing for RFI 27", "category": "other", "amount": 356.0}
+    ],
+    "subtotal": null,
+    "markup_amount": null,
+    "tax_amount": null,
+    "total": 18007.0,
+    "schedule_impact_days": 0,
+    "status": "pending",
+    "requested_by": null,
+    "approved_by": null,
+    "approval_date": null
+  }
+}

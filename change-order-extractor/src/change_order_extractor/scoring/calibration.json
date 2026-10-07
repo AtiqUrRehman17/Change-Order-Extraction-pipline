@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "fitted_at": "2026-10-07T15:26:33",
+  "fitted_on": "697 values from 20 evaluation documents",
+  "prior_strength": 10.0,
+  "groups": {
+    "both": [
+      {
+        "raw": 0.9422,
+        "calibrated": 0.99,
+        "count": 199,
+        "correct": 198
+      }
+    ],
+    "conflict": [
+      {
+        "raw": 0.26,
+        "calibrated": 0.3273,
+        "count": 1,
+        "correct": 1
+      },
+      {
+        "raw": 0.37,
+        "calibrated": 0.4273,
+        "count": 1,
+        "correct": 1
+      }
+    ],
+    "rules_unconfirmed": [
+      {
+        "raw": 0.68,
+        "calibrated": 0.7091,
+        "count": 1,
+        "correct": 1
+      }
+    ],
+    "llm_unconfirmed": [
+      {
+        "raw": 0.4625,
+        "calibrated": 0.4018,
+        "count": 4,
+        "correct": 1
+      },
+      {
+        "raw": 0.61,
+        "calibrated": 0.45,
+        "count": 8,
+        "correct": 2
+      },
+      {
+        "raw": 0.68,
+        "calibrated": 0.8968,
+        "count": 21,
+        "correct": 21
+      },
+      {
+        "raw": 0.77,
+        "calibrated": 0.9,
+        "count": 13,
+        "correct": 13
+      }
+    ],
+    "rules_alone": [
+      {
+        "raw": 0.3417,
+        "calibrated": 0.6553,
+        "count": 12,
+        "correct": 11
+      },
+      {
+        "raw": 0.41,
+        "calibrated": 0.764,
+        "count": 15,
+        "correct": 15
+      },
+      {
+        "raw": 0.59,
+        "calibrated": 0.764,
+        "count": 2,
+        "correct": 2
+      },
+      {
+        "raw": 0.65,
+        "calibrated": 0.764,
+        "count": 1,
+        "correct": 1
+      },
+      {
+        "raw": 0.68,
+        "calibrated": 0.84,
+        "count": 10,
+        "correct": 10
+      },
+      {
+        "raw": 0.77,
+        "calibrated": 0.9866,
+        "count": 162,
+        "correct": 162
+      }
+    ],
+    "llm_alone": [
+      {
+        "raw": 0.515,
+        "calibrated": 0.6288,
+        "count": 30,
+        "correct": 20
+      },
+      {
+        "raw": 0.7576,
+        "calibrated": 0.9849,
+        "count": 217,
+        "correct": 216
+      }
+    ]
+  }
+}

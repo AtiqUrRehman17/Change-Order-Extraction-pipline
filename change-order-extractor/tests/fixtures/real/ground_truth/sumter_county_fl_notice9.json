@@ -1,0 +1,28 @@
+{
+  "notes": "Read by hand from the page 1 image (the OCR text layer is noisy). Pages 2-3 are backup. On this form the SUBTOTAL already includes the 10% GC markup (9,700 + 970 = 10,670 = total). The requestor (Mark Cook Builders) signed as Jay Veillette on 10/28/2024; the architect signed 1/2/25; the owner signed by hand on 1/2/2025, so it is approved. The owner's signature is not legible, so approved_by is not scored.",
+  "expected_issues": [],
+  "unscored": ["approved_by"],
+  "truth": {
+    "change_order_number": "9",
+    "project_name": "Sumter County Supervisor of Elections",
+    "project_number": null,
+    "date": "2024-10-28",
+    "contractor": "Mark Cook Builders",
+    "owner": "Board of Sumter County Commissioners",
+    "description": "Steel changes per ASI#5: slip connections at one end of each truss, East and South walls",
+    "reason": "ASI#5",
+    "line_items": [
+      {"description": "Slip connections at one end of each truss - East & South Walls", "category": "subcontract", "amount": 9700.0},
+      {"description": "MCB Supervision", "category": "labor", "quantity": 0, "unit": "hrs", "unit_price": 62.0, "amount": 0.0}
+    ],
+    "subtotal": 10670.0,
+    "markup_amount": 970.0,
+    "tax_amount": null,
+    "total": 10670.0,
+    "schedule_impact_days": 0,
+    "status": "approved",
+    "requested_by": "Jay Veillette",
+    "approved_by": null,
+    "approval_date": "2025-01-02"
+  }
+}

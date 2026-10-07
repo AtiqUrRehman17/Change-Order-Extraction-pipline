@@ -1,0 +1,139 @@
+[
+  {
+    "id": "co_001_clean",
+    "file": "co_001_clean.txt",
+    "format": "txt",
+    "style": "Clean, well-labelled form",
+    "ground_truth": "co_001_clean.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_002_table",
+    "file": "co_002_table.pdf",
+    "format": "pdf",
+    "style": "Formal PDF form with a line-item table (qty / unit / unit price)",
+    "ground_truth": "co_002_table.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_003_email",
+    "file": "co_003_email.txt",
+    "format": "txt",
+    "style": "Informal email, prices inside sentences",
+    "ground_truth": "co_003_email.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_004_credit",
+    "file": "co_004_credit.txt",
+    "format": "txt",
+    "style": "Deductive change order (credit, negative amounts in parentheses)",
+    "ground_truth": "co_004_credit.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_005_wrong_math",
+    "file": "co_005_wrong_math.txt",
+    "format": "txt",
+    "style": "Looks clean, but the total is $100 too high",
+    "ground_truth": "co_005_wrong_math.json",
+    "expected_issues": [
+      "total_mismatch"
+    ]
+  },
+  {
+    "id": "co_006_missing_fields",
+    "file": "co_006_missing_fields.txt",
+    "format": "txt",
+    "style": "Very short request: no CO number, no date",
+    "ground_truth": "co_006_missing_fields.json",
+    "expected_issues": [
+      "missing_change_order_number",
+      "missing_date"
+    ]
+  },
+  {
+    "id": "co_007_shorthand",
+    "file": "co_007_shorthand.txt",
+    "format": "txt",
+    "style": "Field shorthand notes, abbreviations, wrong total, unsure schedule",
+    "ground_truth": "co_007_shorthand.json",
+    "expected_issues": [
+      "total_mismatch"
+    ]
+  },
+  {
+    "id": "co_008_scanned",
+    "file": "co_008_scanned.pdf",
+    "format": "pdf_scan",
+    "style": "Scanned paper form (image only, no text layer)",
+    "ground_truth": "co_008_scanned.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_009_multi_page",
+    "file": "co_009_multi_page.pdf",
+    "format": "pdf",
+    "style": "Two-page PDF with sales tax; signatures on page 2",
+    "ground_truth": "co_009_multi_page.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_010_aia_style",
+    "file": "co_010_aia_style.pdf",
+    "format": "pdf",
+    "style": "AIA G701-style form: many contract-sum numbers that are NOT the CO total",
+    "ground_truth": "co_010_aia_style.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_011_rejected",
+    "file": "co_011_rejected.txt",
+    "format": "txt",
+    "style": "Change order request that the owner rejected",
+    "ground_truth": "co_011_rejected.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_012_ocr_noise",
+    "file": "co_012_ocr_noise.txt",
+    "format": "txt",
+    "style": "Bad OCR output: O/0 and l/1 swaps, broken words",
+    "ground_truth": "co_012_ocr_noise.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_013_lump_sum",
+    "file": "co_013_lump_sum.pdf",
+    "format": "pdf",
+    "style": "Lump-sum price with no cost breakdown",
+    "ground_truth": "co_013_lump_sum.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_014_supersedes",
+    "file": "co_014_supersedes.txt",
+    "format": "txt",
+    "style": "Mentions another CO number (supersedes CO-017) as a distractor",
+    "ground_truth": "co_014_supersedes.json",
+    "expected_issues": []
+  },
+  {
+    "id": "co_015_bad_dates",
+    "file": "co_015_bad_dates.txt",
+    "format": "txt",
+    "style": "Approval date is BEFORE the change-order date",
+    "ground_truth": "co_015_bad_dates.json",
+    "expected_issues": [
+      "approval_before_date"
+    ]
+  },
+  {
+    "id": "co_016_weeks",
+    "file": "co_016_weeks.pdf",
+    "format": "pdf",
+    "style": "Clean PDF, schedule given in weeks, subcontractor line",
+    "ground_truth": "co_016_weeks.json",
+    "expected_issues": []
+  }
+]

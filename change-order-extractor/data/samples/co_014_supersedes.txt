@@ -1,0 +1,17 @@
+NORTHWIND CONSTRUCTION
+Change Order CO-018   (supersedes CO-017, withdrawn)
+Date: 12/02/2024
+Project: Cedar Hills High School Gym     Proj# CHHS-031
+Owner: Cedar Hills School District
+Requested by: Athletic Director
+
+Description: Revised pricing for gym floor game-line striping and
+center-court logo.
+
+  Labor           $1,650.00
+  Material          $720.00
+  Subtotal        $2,370.00
+  Fee 8%            $189.60
+  Total           $2,559.60
+
+No time extension requested.

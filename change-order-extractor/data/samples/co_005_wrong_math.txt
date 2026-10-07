@@ -1,0 +1,17 @@
+IRONCLAD BUILDERS
+Change Order: CO-021
+Date: 06/10/2025
+Project: Lakeside Office Park - Bldg C
+Owner: Lakeside Holdings LLC
+
+Scope: Upgrade lobby lighting to LED fixtures (24 fixtures).
+
+  Labor                      2,400.00
+  Material                   5,850.00
+  Equipment (lift rental)      600.00
+  Subtotal                   8,850.00
+  Markup 10%                   885.00
+  TOTAL                      9,835.00
+
+Schedule: add 2 days
+Status: Pending owner signature

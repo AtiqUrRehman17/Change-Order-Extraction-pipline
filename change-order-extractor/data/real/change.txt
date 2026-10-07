@@ -1,0 +1,227 @@
+ Document G701™
+ – 2017
+Change Order
+AIA Document G701™ – 2017. Copyright © 1979, 1987, 2000 , 2001 and 2017 by The American Institute of Architects. All rights reserved. The “American
+Institute of Architects,” “AIA,” the AIA Logo, and “AIA Contract Documents” are registered trademarks and may not be used without permission. This document
+was produced by AIA software at 14:42:36 ET on 01/08/2021 under Order No.9829591753 which expires on 01/23/2022, is not for resale, is licensed for one-time
+use only, and may only be used in accordance with the AIA Contract Documents® Terms of Service. To report copyright violations, e-mail copyright@aia.org.
+User Notes: (3B9ADA5D)
+1
+PROJECT: (Name and address) CONTRACT INFORMATION: CHANGE ORDER INFORMATION:
+777.01 Marshall Municipal Building Contract For: General Construction Change Order Number: 10
+Marshall, MN Date: November 18, 2019 Date: November 5, 2020
+Revised January 8, 2021
+OWNER: (Name and address) ARCHITECT: (Name and address) CONTRACTOR: (Name and address)
+City of Marshall Engan Associates Brennan Construction of MN, Inc.
+344 West Main Street
+Marshall, MN 56258     
+311 4th Street SW
+Willmar, MN 56201     
+124 E Walnut Street, Ste. 240
+Mankato, MN 56001     
+THE CONTRACT IS CHANGED AS FOLLOWS:
+(Insert a detailed description of the change and, if applicable, attach or reference specific exhibits. Also include agreed upon adjustments
+attributable to executed Construction Change Directives.)
+Brennan Change Order PR04 Steel Only $11,129.00
+Brennan CR 13 Revised Rev 3 RFI 24 Fire Alarm changes $6,522.00
+Brennan CR 17 Framing for RFI 27 $356.00
+The original Contract Sum was $ 5030200.0000
+The net change by previously authorized Change Orders $ 251,608.00
+The Contract Sum prior to this Change Order was $ 5,281,808.00
+The Contract Sum will be increased by this Change Order in the amount of $ 18,007.00
+The new Contract Sum including this Change Order will be $ 5,299,815.00
+The Contract Time will be increased by Zero (0) days.
+The new date of Substantial Completion will be
+NOTE: This Change Order does not include adjustments to the Contract Sum or Guaranteed Maximum Price, or the Contract
+Time, that have been authorized by Construction Change Directive until the cost and time have been agreed upon by both the
+Owner and Contractor, in which case a Change Order is executed to supersede the Construction Change Directive.
+NOT VALID UNTIL SIGNED BY THE ARCHITECT, CONTRACTOR AND OWNER.
+Engan Associates Brennan Construction of MN, Inc. City of Marshall
+ARCHITECT (Firm name) CONTRACTOR (Firm name) OWNER (Firm name)
+SIGNATURE SIGNATURE SIGNATURE
+Andy M. Engan, AIA, LEED AP, CID,
+Principal
+John van Dyck Scott VanDerMillen, Owner
+Representative
+PRINTED NAME AND TITLE PRINTED NAME AND TITLE PRINTED NAME AND TITLE
+January 8, 2021
+DATE DATE DATE
+Labor Material Total
+$ 10,017.00
+$ 10,017.00
+$ 100.17
+$ 100.17
+$ 1,001.70
+$ 10.02
+$ 11,129.00
+Approved:
+Berghs Steel Fabrication
+Bond @ 1%
+Notes:
+10% OH&P on
+subs
+10% OH&P on
+GC
+GC Subtotal:
+TOTAL:
+September 18, 2020
+Andy Engan; Engan Architects
+Nathan Hrdlichka; Brennan
+John van Dyck; Brennan
+PR 04 Steel Only
+CC:
+TO:
+DATE:
+RE:
+FROM:
+Contractor Item Description
+Subs Subtotal:
+Brennan Companies:
+Subcontractors:
+Bergh's Fabricating, Inc
+Page 1 of 1
+Date: 8/25/2020
+CO #: 6
+Job #: 43092
+Marshall Municipal Facility
+2208 Airport Drive
+PO Box 1125
+Willmar, MN 56201
+Phone: (320) 235-7761
+Fax: (320) 235-7762
+Change Order Request
+Brennan Companies
+124 East Walnut Street Suite 240
+Mankato, MN 56001
+Phone: 5076255417
+Fax: 5076254805
+To: John Van Dyck
+Subject: PR #4 NET ADD
+Change Requested By: ENG'R/ARCH'T
+Sent Via: E-mail
+Description of Change:
+ADDITIONAL MATERIALS PER REVISED S56 INCLUDES: 4 X 4 ANGLE, 5- GALVANIZED
+ANGLE LINTELS, BENT PLATE SUPPORT WITH ANCHORS AND CHANGING ROOF RAIL
+SYSTEM TO BLUEWATER BRAND. DELIVERED
+The change has added 10 calendar days to the project schedule and will cause an increase of $10,017.00
+to the contract amount.
+Bergh's Fabricating, Inc
+A signature below indicates acceptance of all changes shown herein. Any work associated with this
+change will begin upon receipt of a signed copy of this C.O. in our office. Please respond by 8/26/2020.
+If the requested response time is not met, the project may be delayed.
+Accepted By
+Labor Material Total
+$ - $ 5,870.00
+$ 5,870.00
+$ - $ 58.70
+$ 58.70
+$ 587.00
+$ 5.87
+$ 6,522.00
+Approved:
+Contractor Item Description
+Subcontractors:
+10% OH&P on
+subs
+10% OH&P on
+GC
+GC Subtotal:
+TOTAL:
+CC:
+TO:
+DATE:
+RE:
+January 7, 2021
+Andy Engan; Engan Architects
+Nathan Hrdlichka; Brennan Construction
+John van Dyck; Brennan Construction
+Marshall Municipal CR 13 Rev 3, Fire Alarm related to RFI 24
+FROM:
+Red River $ -
+Pricing changes based on
+direction from RFI 24
+Brennan Change in Bond $ -
+Subs Subtotal:
+Brennan Companies:
+DCH NGE ORE
+ption Qty Price Labor U
+3/4
+3/4
+3/4
+3/4
+108 .90 3.25 C
+14 .03 C 12.50 C .75
+14 45 C 5.00 C .70
+36 04 C 755C 43
+30 .92C .75 C 3
+5 C 12.50 C 0.63
+5 .63 C C 0.63
+#1 370 .00M 4 M 2.50
+#1 170 .00 M M 7
+5 .40 C .97 C 0.28
+4x 24 .00 C .04 C 6.90
+4 6 .23 C .23 C 9
+4 5 75 C .19 C 6
+#1 10 7 C .89 C 0.35
+#1 64 .36 C .99 C 2.40
+24 5 8 C .06 94
+0.00 E 0.00 50
+DRESS 5 0.00 E 0.00
+5 0.00 E 0.00 50
+:
+EEEEEE
+ΠEEEEEE
+1/7/2021
+complete
+6
+ and accurate
+Labor Material Total
+$ - $ 320.00
+$ 320.00
+$ 3.20
+$ 3.20
+$ 32.00
+$ 0.32
+$ 356.00
+Approved:
+Brennan Companies Bond Change @ 1%
+Contractor Item Description
+Subcontractors:
+Subs Subtotal:
+Brennan Companies:
+10% OH&P on
+subs
+10% OH&P on
+GC
+GC Subtotal:
+TOTAL:
+CC:
+TO:
+DATE:
+RE:
+September 22, 2020
+Andy Engan; Engan Architects
+Nathan Hrdlichka; Brennan Construction
+John van Dyck; Brennan Construction
+Marshall Municipal CR 17, Framing for RFI 27
+FROM:
+Sparky's Cut and remove joist tail $ -
+Sparky's Welding QUOTE
+4050 210th Street
+Montevideo MN 56265
+320-269-8860
+www.sparkysweldingandfab.com
+TO: Brennan Construction Inc DATE: 9/22/2020
+John van Dyck
+Proposal
+RFI# 27 Fire Damper
+Frame opening for fire damper- cut and remove joist tail
+AMOUNT
+4 hours x $80.00/hr $320.00
+Labor and consumables to complete objective
+MN Sales Tax 6.875% NOT included
+TOTAL ESTIMATED COST $320.00
+Objective
+Sparky's Welding & Fabrication, LLC will supply:
+Prices quoted are good for 30 days. Labor quoted is based on Monday-Friday work hours.
+ Work done on weekends and holidays are subject to extra labor cost.

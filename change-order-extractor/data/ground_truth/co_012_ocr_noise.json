@@ -1,0 +1,37 @@
+{
+  "change_order_number": "CO-08",
+  "project_name": "Sunset Ridge Clubhouse",
+  "project_number": "5520",
+  "date": "2024-10-03",
+  "contractor": "Pacific Coast Builders",
+  "owner": "Sunset Ridge HOA",
+  "description": "Add exterior hose bibs (4) with frost-free valves.",
+  "reason": null,
+  "line_items": [
+    {
+      "description": "Plumbing labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1280.0
+    },
+    {
+      "description": "Materials",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1370.0
+    }
+  ],
+  "subtotal": null,
+  "markup_amount": 265.0,
+  "tax_amount": null,
+  "total": 2915.0,
+  "schedule_impact_days": 1,
+  "status": "unknown",
+  "requested_by": null,
+  "approved_by": null,
+  "approval_date": null
+}

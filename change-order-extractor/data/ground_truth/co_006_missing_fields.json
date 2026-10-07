@@ -1,0 +1,20 @@
+{
+  "change_order_number": null,
+  "project_name": "Pinecrest Residence",
+  "project_number": null,
+  "date": null,
+  "contractor": "Hartwell Homes",
+  "owner": null,
+  "description": "Add 4 recessed lights in kitchen + dimmer switch.",
+  "reason": null,
+  "line_items": [],
+  "subtotal": null,
+  "markup_amount": null,
+  "tax_amount": null,
+  "total": 1180.0,
+  "schedule_impact_days": null,
+  "status": "unknown",
+  "requested_by": null,
+  "approved_by": null,
+  "approval_date": null
+}

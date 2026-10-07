@@ -1,0 +1,37 @@
+{
+  "change_order_number": "0005",
+  "project_name": "Oakwood Elementary School Addition",
+  "project_number": "OES-22-104",
+  "date": "2025-01-22",
+  "contractor": "BrightLine General Contractors",
+  "owner": "Oakwood Unified School District",
+  "description": "Delete specified epoxy flooring in Corridor 200 and replace with sealed concrete finish per owner value-engineering request.",
+  "reason": "Value engineering",
+  "line_items": [
+    {
+      "description": "Epoxy flooring - Corridor 200 (DELETED)",
+      "category": "subcontract",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": -8400.0
+    },
+    {
+      "description": "Sealed concrete finish (ADD)",
+      "category": "subcontract",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 2150.0
+    }
+  ],
+  "subtotal": null,
+  "markup_amount": null,
+  "tax_amount": null,
+  "total": -6250.0,
+  "schedule_impact_days": 0,
+  "status": "approved",
+  "requested_by": null,
+  "approved_by": "Linda Chen",
+  "approval_date": "2025-01-30"
+}

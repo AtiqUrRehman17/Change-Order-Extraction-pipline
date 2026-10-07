@@ -1,0 +1,20 @@
+{
+  "change_order_number": "009",
+  "project_name": "Elm Street Townhomes, Phase 2",
+  "project_number": null,
+  "date": "2024-09-09",
+  "contractor": "Redstone Construction Co.",
+  "owner": "Elm Street Housing Partners",
+  "description": "Install additional waterproofing membrane at below-grade walls of Buildings 3 and 4 per RFI #27 response.",
+  "reason": "RFI #27 response",
+  "line_items": [],
+  "subtotal": null,
+  "markup_amount": null,
+  "tax_amount": null,
+  "total": 4250.0,
+  "schedule_impact_days": 10,
+  "status": "pending",
+  "requested_by": null,
+  "approved_by": null,
+  "approval_date": null
+}

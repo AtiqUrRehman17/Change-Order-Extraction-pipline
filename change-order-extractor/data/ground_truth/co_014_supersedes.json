@@ -1,0 +1,37 @@
+{
+  "change_order_number": "CO-018",
+  "project_name": "Cedar Hills High School Gym",
+  "project_number": "CHHS-031",
+  "date": "2024-12-02",
+  "contractor": "Northwind Construction",
+  "owner": "Cedar Hills School District",
+  "description": "Revised pricing for gym floor game-line striping and center-court logo.",
+  "reason": null,
+  "line_items": [
+    {
+      "description": "Labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1650.0
+    },
+    {
+      "description": "Material",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 720.0
+    }
+  ],
+  "subtotal": 2370.0,
+  "markup_amount": 189.6,
+  "tax_amount": null,
+  "total": 2559.6,
+  "schedule_impact_days": 0,
+  "status": "unknown",
+  "requested_by": "Athletic Director",
+  "approved_by": null,
+  "approval_date": null
+}

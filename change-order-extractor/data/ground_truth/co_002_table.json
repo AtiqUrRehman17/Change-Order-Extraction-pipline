@@ -1,0 +1,53 @@
+{
+  "change_order_number": "7",
+  "project_name": "Maple Falls Public Library Renovation",
+  "project_number": "MF-2024-017",
+  "date": "2024-08-14",
+  "contractor": "Summit Ridge Construction LLC",
+  "owner": "City of Maple Falls",
+  "description": "Replace damaged subfloor discovered during demolition in the east reading room.",
+  "reason": "Unforeseen condition",
+  "line_items": [
+    {
+      "description": "Remove damaged subfloor",
+      "category": "labor",
+      "quantity": 450.0,
+      "unit": "SF",
+      "unit_price": 2.5,
+      "amount": 1125.0
+    },
+    {
+      "description": "3/4\" plywood subfloor",
+      "category": "material",
+      "quantity": 450.0,
+      "unit": "SF",
+      "unit_price": 3.2,
+      "amount": 1440.0
+    },
+    {
+      "description": "Install subfloor - labor",
+      "category": "labor",
+      "quantity": 24.0,
+      "unit": "HR",
+      "unit_price": 68.0,
+      "amount": 1632.0
+    },
+    {
+      "description": "Dumpster rental",
+      "category": "equipment",
+      "quantity": 1.0,
+      "unit": "EA",
+      "unit_price": 475.0,
+      "amount": 475.0
+    }
+  ],
+  "subtotal": 4672.0,
+  "markup_amount": 700.8,
+  "tax_amount": null,
+  "total": 5372.8,
+  "schedule_impact_days": 3,
+  "status": "pending",
+  "requested_by": "R. Okafor",
+  "approved_by": null,
+  "approval_date": null
+}

@@ -1,0 +1,28 @@
+{
+  "notes": "Read by hand. Page 1 (AIA G701, scanned image with a stamped text footer) holds the change order: number 1, date 10/21/2025, GMP changed by $0.00, contract time increased by eight (8) days. The engineer signed 10-21-2025 and the contractor 10-22-2025; the owner's (Hidalgo County) signature and date are blank, and the county signature lines on page 2 are blank too ('APPROVED BY COMMISSIONERS' COURT ON NOVEMBER 10, 2025' is pre-printed), so this copy is pending. Page 3 (Exhibit A) moves $3,075 from the landscaping allowance to brick material & labor. Page 4 is a date-calculator printout (backup). 3/18/2025 is the contract date. There is no written description ('See Attached Breakdown') and only contract numbers (ARPA 24-340-352, C-24-0312-09-27), no project number, so description and project_number are not scored.",
+  "expected_issues": [],
+  "unscored": ["description", "project_number"],
+  "truth": {
+    "change_order_number": "1",
+    "project_name": "McAllen Health Center Improvement Project",
+    "project_number": null,
+    "date": "2025-10-21",
+    "contractor": "RGV Construction LLC",
+    "owner": "The County of Hidalgo",
+    "description": null,
+    "reason": null,
+    "line_items": [
+      {"description": "Brick Material & Labor", "category": "material", "amount": 3075.0},
+      {"description": "Landscaping Allowance", "category": "other", "amount": -3075.0}
+    ],
+    "subtotal": null,
+    "markup_amount": null,
+    "tax_amount": null,
+    "total": 0.0,
+    "schedule_impact_days": 8,
+    "status": "pending",
+    "requested_by": null,
+    "approved_by": null,
+    "approval_date": null
+  }
+}

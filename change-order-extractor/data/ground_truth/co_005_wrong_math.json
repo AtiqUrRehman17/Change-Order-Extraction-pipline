@@ -1,0 +1,45 @@
+{
+  "change_order_number": "CO-021",
+  "project_name": "Lakeside Office Park - Bldg C",
+  "project_number": null,
+  "date": "2025-06-10",
+  "contractor": "Ironclad Builders",
+  "owner": "Lakeside Holdings LLC",
+  "description": "Upgrade lobby lighting to LED fixtures (24 fixtures).",
+  "reason": null,
+  "line_items": [
+    {
+      "description": "Labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 2400.0
+    },
+    {
+      "description": "Material",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 5850.0
+    },
+    {
+      "description": "Equipment (lift rental)",
+      "category": "equipment",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 600.0
+    }
+  ],
+  "subtotal": 8850.0,
+  "markup_amount": 885.0,
+  "tax_amount": null,
+  "total": 9835.0,
+  "schedule_impact_days": 2,
+  "status": "pending",
+  "requested_by": null,
+  "approved_by": null,
+  "approval_date": null
+}

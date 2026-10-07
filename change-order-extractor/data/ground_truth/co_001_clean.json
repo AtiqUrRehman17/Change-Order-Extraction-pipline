@@ -1,0 +1,37 @@
+{
+  "change_order_number": "CO-014",
+  "project_name": "Riverside Medical Clinic",
+  "project_number": "2291",
+  "date": "2025-03-05",
+  "contractor": "ACME Builders Inc.",
+  "owner": "Greenfield Properties LLC",
+  "description": "Owner requested 2 additional windows on north wall (2nd floor). Includes framing, glazing & trim.",
+  "reason": "Owner request",
+  "line_items": [
+    {
+      "description": "Labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1200.0
+    },
+    {
+      "description": "Materials",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 2150.0
+    }
+  ],
+  "subtotal": 3350.0,
+  "markup_amount": 335.0,
+  "tax_amount": null,
+  "total": 3685.0,
+  "schedule_impact_days": 5,
+  "status": "approved",
+  "requested_by": null,
+  "approved_by": "J. Martinez",
+  "approval_date": "2025-03-07"
+}

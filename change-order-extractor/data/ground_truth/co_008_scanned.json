@@ -1,0 +1,45 @@
+{
+  "change_order_number": "4",
+  "project_name": "Westgate Retail Center",
+  "project_number": "1187",
+  "date": "2025-02-18",
+  "contractor": "Delta Mechanical Inc.",
+  "owner": "Westgate Partners LP",
+  "description": "Relocate rooftop unit RTU-3 curb 6 ft east to clear new skylight opening.",
+  "reason": "Design change (Architect ASI-12)",
+  "line_items": [
+    {
+      "description": "Labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 3200.0
+    },
+    {
+      "description": "Crane rental",
+      "category": "equipment",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1850.0
+    },
+    {
+      "description": "Materials",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 940.0
+    }
+  ],
+  "subtotal": 5990.0,
+  "markup_amount": 718.8,
+  "tax_amount": null,
+  "total": 6708.8,
+  "schedule_impact_days": 2,
+  "status": "approved",
+  "requested_by": null,
+  "approved_by": "M. Alvarez",
+  "approval_date": "2025-02-21"
+}

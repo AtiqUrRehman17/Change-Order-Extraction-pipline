@@ -1,0 +1,25 @@
+{
+  "notes": "Read by hand (EJCDC C-941, 1 page). 'Date of Issuance: 11/19/2024' is the change order's date; 11/18/2024 is the effective date. 'Decrease of this Change Order: $14,000.00' makes the total -14,000 (the contractor reimburses the city). Contract times are unchanged (752 / 767 days before and after; 'NA'), so the schedule impact is 0; 360 days is the original contract time. The engineer signed 11/19/2024 and the contractor 11/18/2024; the owner's signature and date are blank, so it is pending. Only the engineer's project number (231620.06.001) is given, and the reason is just the description's 'Pursuant to Change Order 5', so project_number and reason are not scored. The project name is the 'Project:' value; 'Contract B: Water Main Improvements' is the separate 'Contract Name:' field.",
+  "expected_issues": [],
+  "unscored": ["project_number", "reason"],
+  "truth": {
+    "change_order_number": "08",
+    "project_name": "Water System Improvements - Phase II",
+    "project_number": null,
+    "date": "2024-11-19",
+    "contractor": "J.G. Case Construction, Inc.",
+    "owner": "City of Lawrence Utilities",
+    "description": "Pursuant to Change Order 5, Contractor will reimburse the City of Lawrence for full-time RPR fees incurred from Wessler to finish the project. This Change Order includes the final Wessler fees to process and prepare final record drawings.",
+    "reason": null,
+    "line_items": [],
+    "subtotal": null,
+    "markup_amount": null,
+    "tax_amount": null,
+    "total": -14000.0,
+    "schedule_impact_days": 0,
+    "status": "pending",
+    "requested_by": null,
+    "approved_by": null,
+    "approval_date": null
+  }
+}

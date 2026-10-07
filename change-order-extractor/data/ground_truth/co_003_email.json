@@ -1,0 +1,37 @@
+{
+  "change_order_number": "3",
+  "project_name": "Harbor View Apartments",
+  "project_number": null,
+  "date": "2024-11-04",
+  "contractor": "Kim Electric",
+  "owner": null,
+  "description": "Add 12 additional duplex outlets in units 4A-4D.",
+  "reason": "Owner request",
+  "line_items": [
+    {
+      "description": "Material",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 540.0
+    },
+    {
+      "description": "Labor",
+      "category": "labor",
+      "quantity": 18.0,
+      "unit": "hr",
+      "unit_price": 85.0,
+      "amount": 1530.0
+    }
+  ],
+  "subtotal": null,
+  "markup_amount": null,
+  "tax_amount": null,
+  "total": 2070.0,
+  "schedule_impact_days": 0,
+  "status": "pending",
+  "requested_by": null,
+  "approved_by": null,
+  "approval_date": null
+}

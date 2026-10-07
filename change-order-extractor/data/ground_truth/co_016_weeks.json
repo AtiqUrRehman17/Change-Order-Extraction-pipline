@@ -1,0 +1,45 @@
+{
+  "change_order_number": "6",
+  "project_name": "Silver Creek Warehouse",
+  "project_number": "SCW-881",
+  "date": "2024-10-28",
+  "contractor": "Titan Industrial Builders",
+  "owner": "Silver Creek Logistics Inc.",
+  "description": "Add two 10' x 12' insulated overhead doors at the north loading dock wall.",
+  "reason": "Owner request",
+  "line_items": [
+    {
+      "description": "Overhead doors (Precision Door Co., sub)",
+      "category": "subcontract",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 14200.0
+    },
+    {
+      "description": "Structural steel framing (material)",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 3650.0
+    },
+    {
+      "description": "Concrete work & labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 2980.0
+    }
+  ],
+  "subtotal": 20830.0,
+  "markup_amount": 2083.0,
+  "tax_amount": null,
+  "total": 22913.0,
+  "schedule_impact_days": 14,
+  "status": "approved",
+  "requested_by": null,
+  "approved_by": "G. Patel",
+  "approval_date": "2024-11-01"
+}

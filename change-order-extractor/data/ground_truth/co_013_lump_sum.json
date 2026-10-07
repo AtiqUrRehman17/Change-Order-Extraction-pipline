@@ -1,0 +1,20 @@
+{
+  "change_order_number": "2",
+  "project_name": "Greenway Medical Office Building",
+  "project_number": null,
+  "date": "2025-05-12",
+  "contractor": "Cornerstone Builders Group",
+  "owner": "Greenway Health Partners",
+  "description": "Furnish and install two (2) additional ADA-compliant automatic door operators at the main entrance vestibule.",
+  "reason": null,
+  "line_items": [],
+  "subtotal": null,
+  "markup_amount": null,
+  "tax_amount": null,
+  "total": 7800.0,
+  "schedule_impact_days": 0,
+  "status": "approved",
+  "requested_by": null,
+  "approved_by": "Dr. Karen Wells",
+  "approval_date": "2025-05-15"
+}

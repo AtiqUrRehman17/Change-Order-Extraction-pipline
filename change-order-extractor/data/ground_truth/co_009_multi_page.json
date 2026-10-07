@@ -1,0 +1,53 @@
+{
+  "change_order_number": "12",
+  "project_name": "Northside Community Center",
+  "project_number": "23-0456",
+  "date": "2025-04-03",
+  "contractor": "Granite Peak Builders",
+  "owner": "Northside Parks & Recreation Dept.",
+  "description": "Add acoustic wall panels to the multipurpose room and upgrade AV low-voltage wiring.",
+  "reason": "Owner request",
+  "line_items": [
+    {
+      "description": "Acoustic panels",
+      "category": "material",
+      "quantity": 48.0,
+      "unit": "EA",
+      "unit_price": 145.0,
+      "amount": 6960.0
+    },
+    {
+      "description": "Panel installation labor",
+      "category": "labor",
+      "quantity": 40.0,
+      "unit": "HR",
+      "unit_price": 72.0,
+      "amount": 2880.0
+    },
+    {
+      "description": "AV wiring (Clearwave AV, subcontractor)",
+      "category": "subcontract",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 3450.0
+    },
+    {
+      "description": "Scissor lift rental",
+      "category": "equipment",
+      "quantity": 1.0,
+      "unit": "WK",
+      "unit_price": 520.0,
+      "amount": 520.0
+    }
+  ],
+  "subtotal": 13810.0,
+  "markup_amount": 1381.0,
+  "tax_amount": 574.2,
+  "total": 15765.2,
+  "schedule_impact_days": 5,
+  "status": "pending",
+  "requested_by": null,
+  "approved_by": null,
+  "approval_date": null
+}

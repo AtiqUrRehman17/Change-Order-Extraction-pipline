@@ -1,0 +1,698 @@
+{
+  "generated_at": "2026-10-07T15:25:55",
+  "modes": {
+    "rules": {
+      "documents": 20,
+      "failed": [],
+      "gemini_answered": 0,
+      "models": [],
+      "fully_correct": 14,
+      "overall": {
+        "correct": 201,
+        "correct_empty": 111,
+        "wrong": 1,
+        "missed": 41,
+        "hallucinated": 0,
+        "accuracy": 0.8813559322033898,
+        "precision": 0.995049504950495,
+        "recall": 0.8271604938271605
+      },
+      "fields": {
+        "change_order_number": {
+          "correct": 17,
+          "correct_empty": 1,
+          "wrong": 0,
+          "missed": 2,
+          "hallucinated": 0,
+          "accuracy": 0.9,
+          "precision": 1.0,
+          "recall": 0.8947368421052632
+        },
+        "project_name": {
+          "correct": 15,
+          "correct_empty": 0,
+          "wrong": 0,
+          "missed": 5,
+          "hallucinated": 0,
+          "accuracy": 0.75,
+          "precision": 1.0,
+          "recall": 0.75
+        },
+        "project_number": {
+          "correct": 10,
+          "correct_empty": 7,
+          "wrong": 0,
+          "missed": 1,
+          "hallucinated": 0,
+          "accuracy": 0.9444444444444444,
+          "precision": 1.0,
+          "recall": 0.9090909090909091
+        },
+        "date": {
+          "correct": 17,
+          "correct_empty": 1,
+          "wrong": 0,
+          "missed": 2,
+          "hallucinated": 0,
+          "accuracy": 0.9,
+          "precision": 1.0,
+          "recall": 0.8947368421052632
+        },
+        "contractor": {
+          "correct": 16,
+          "correct_empty": 1,
+          "wrong": 0,
+          "missed": 3,
+          "hallucinated": 0,
+          "accuracy": 0.85,
+          "precision": 1.0,
+          "recall": 0.8421052631578947
+        },
+        "owner": {
+          "correct": 15,
+          "correct_empty": 3,
+          "wrong": 0,
+          "missed": 2,
+          "hallucinated": 0,
+          "accuracy": 0.9,
+          "precision": 1.0,
+          "recall": 0.8823529411764706
+        },
+        "description": {
+          "correct": 13,
+          "correct_empty": 0,
+          "wrong": 0,
+          "missed": 5,
+          "hallucinated": 0,
+          "accuracy": 0.7222222222222222,
+          "precision": 1.0,
+          "recall": 0.7222222222222222
+        },
+        "reason": {
+          "correct": 10,
+          "correct_empty": 6,
+          "wrong": 0,
+          "missed": 3,
+          "hallucinated": 0,
+          "accuracy": 0.8421052631578947,
+          "precision": 1.0,
+          "recall": 0.7692307692307693
+        },
+        "line_items": {
+          "correct": 12,
+          "correct_empty": 4,
+          "wrong": 1,
+          "missed": 3,
+          "hallucinated": 0,
+          "accuracy": 0.8,
+          "precision": 0.9230769230769231,
+          "recall": 0.75
+        },
+        "subtotal": {
+          "correct": 8,
+          "correct_empty": 11,
+          "wrong": 0,
+          "missed": 1,
+          "hallucinated": 0,
+          "accuracy": 0.95,
+          "precision": 1.0,
+          "recall": 0.8888888888888888
+        },
+        "markup_amount": {
+          "correct": 9,
+          "correct_empty": 10,
+          "wrong": 0,
+          "missed": 1,
+          "hallucinated": 0,
+          "accuracy": 0.95,
+          "precision": 1.0,
+          "recall": 0.9
+        },
+        "tax_amount": {
+          "correct": 1,
+          "correct_empty": 19,
+          "wrong": 0,
+          "missed": 0,
+          "hallucinated": 0,
+          "accuracy": 1.0,
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "total": {
+          "correct": 18,
+          "correct_empty": 0,
+          "wrong": 0,
+          "missed": 2,
+          "hallucinated": 0,
+          "accuracy": 0.9,
+          "precision": 1.0,
+          "recall": 0.9
+        },
+        "schedule_impact_days": {
+          "correct": 16,
+          "correct_empty": 1,
+          "wrong": 0,
+          "missed": 3,
+          "hallucinated": 0,
+          "accuracy": 0.85,
+          "precision": 1.0,
+          "recall": 0.8421052631578947
+        },
+        "status": {
+          "correct": 12,
+          "correct_empty": 4,
+          "wrong": 0,
+          "missed": 4,
+          "hallucinated": 0,
+          "accuracy": 0.8,
+          "precision": 1.0,
+          "recall": 0.75
+        },
+        "requested_by": {
+          "correct": 2,
+          "correct_empty": 17,
+          "wrong": 0,
+          "missed": 1,
+          "hallucinated": 0,
+          "accuracy": 0.95,
+          "precision": 1.0,
+          "recall": 0.6666666666666666
+        },
+        "approved_by": {
+          "correct": 5,
+          "correct_empty": 13,
+          "wrong": 0,
+          "missed": 1,
+          "hallucinated": 0,
+          "accuracy": 0.9473684210526315,
+          "precision": 1.0,
+          "recall": 0.8333333333333334
+        },
+        "approval_date": {
+          "correct": 5,
+          "correct_empty": 13,
+          "wrong": 0,
+          "missed": 2,
+          "hallucinated": 0,
+          "accuracy": 0.9,
+          "precision": 1.0,
+          "recall": 0.7142857142857143
+        }
+      },
+      "line_items": {
+        "expected": 41,
+        "found": 33,
+        "missed": 8,
+        "extra": 0,
+        "category_accuracy": 0.8181818181818182
+      },
+      "calibration": {
+        "ece": 0.05321782178217821,
+        "bins": [
+          {
+            "low": 0.0,
+            "high": 0.5,
+            "count": 1,
+            "avg_confidence": 0.36,
+            "accuracy": 1.0
+          },
+          {
+            "low": 0.5,
+            "high": 0.7,
+            "count": 5,
+            "avg_confidence": 0.622,
+            "accuracy": 1.0
+          },
+          {
+            "low": 0.7,
+            "high": 0.9,
+            "count": 34,
+            "avg_confidence": 0.7764705882352942,
+            "accuracy": 0.9705882352941176
+          },
+          {
+            "low": 0.9,
+            "high": 1.0,
+            "count": 162,
+            "avg_confidence": 0.99,
+            "accuracy": 1.0
+          }
+        ]
+      },
+      "review": {
+        "documents": 20,
+        "flagged": 7,
+        "with_errors": 6,
+        "catch_rate": 0.8333333333333334,
+        "false_alarm_rate": 0.14285714285714285,
+        "auto_accept_accuracy": 0.9230769230769231
+      },
+      "review_critical": {
+        "documents": 20,
+        "flagged": 7,
+        "with_errors": 3,
+        "catch_rate": 1.0,
+        "false_alarm_rate": 0.23529411764705882,
+        "auto_accept_accuracy": 1.0
+      },
+      "sources": {
+        "rules": {
+          "values": 202,
+          "right": 201
+        }
+      },
+      "checks": {
+        "ambiguous_date": {
+          "raised": 1,
+          "real": 0,
+          "caught_error": 0,
+          "false_alarms": 1,
+          "missed": 0
+        },
+        "approval_before_date": {
+          "raised": 1,
+          "real": 1,
+          "caught_error": 0,
+          "false_alarms": 0,
+          "missed": 0
+        },
+        "missing_change_order_number": {
+          "raised": 3,
+          "real": 1,
+          "caught_error": 2,
+          "false_alarms": 0,
+          "missed": 0
+        },
+        "missing_date": {
+          "raised": 3,
+          "real": 1,
+          "caught_error": 2,
+          "false_alarms": 0,
+          "missed": 0
+        },
+        "missing_total": {
+          "raised": 2,
+          "real": 0,
+          "caught_error": 2,
+          "false_alarms": 0,
+          "missed": 0
+        },
+        "subtotal_mismatch": {
+          "raised": 1,
+          "real": 0,
+          "caught_error": 1,
+          "false_alarms": 0,
+          "missed": 0
+        },
+        "total_mismatch": {
+          "raised": 2,
+          "real": 1,
+          "caught_error": 0,
+          "false_alarms": 1,
+          "missed": 1
+        }
+      },
+      "errors": [
+        {
+          "document": "co_003_email.txt",
+          "field": "project_name",
+          "outcome": "missed",
+          "expected": "Harbor View Apartments",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_003_email.txt",
+          "field": "contractor",
+          "outcome": "missed",
+          "expected": "Kim Electric",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_003_email.txt",
+          "field": "description",
+          "outcome": "missed",
+          "expected": "Add 12 additional duplex outlets in units 4A-4D.",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_003_email.txt",
+          "field": "reason",
+          "outcome": "missed",
+          "expected": "Owner request",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_003_email.txt",
+          "field": "status",
+          "outcome": "missed",
+          "expected": "pending",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_006_missing_fields.txt",
+          "field": "project_name",
+          "outcome": "missed",
+          "expected": "Pinecrest Residence",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_006_missing_fields.txt",
+          "field": "description",
+          "outcome": "missed",
+          "expected": "Add 4 recessed lights in kitchen + dimmer switch.",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_007_shorthand.txt",
+          "field": "project_name",
+          "outcome": "missed",
+          "expected": "Riverside Clinic",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_007_shorthand.txt",
+          "field": "description",
+          "outcome": "missed",
+          "expected": "Additional outlets in rooms 204 and 206.",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_007_shorthand.txt",
+          "field": "reason",
+          "outcome": "missed",
+          "expected": "Owner request",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_007_shorthand.txt",
+          "field": "line_items",
+          "outcome": "missed",
+          "expected": "2 items ($1,250.00): $800.00, $450.00",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "change_order_number",
+          "outcome": "missed",
+          "expected": "4",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "project_name",
+          "outcome": "missed",
+          "expected": "Westgate Retail Center",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "project_number",
+          "outcome": "missed",
+          "expected": "1187",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "date",
+          "outcome": "missed",
+          "expected": "2025-02-18",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "contractor",
+          "outcome": "missed",
+          "expected": "Delta Mechanical Inc.",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "owner",
+          "outcome": "missed",
+          "expected": "Westgate Partners LP",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "description",
+          "outcome": "missed",
+          "expected": "Relocate rooftop unit RTU-3 curb 6 ft east to clear new skylight opening.",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "reason",
+          "outcome": "missed",
+          "expected": "Design change (Architect ASI-12)",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "line_items",
+          "outcome": "missed",
+          "expected": "3 items ($5,990.00): $3,200.00, $1,850.00, $940.00",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "subtotal",
+          "outcome": "missed",
+          "expected": "$5,990.00",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "markup_amount",
+          "outcome": "missed",
+          "expected": "$718.80",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "total",
+          "outcome": "missed",
+          "expected": "$6,708.80",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "schedule_impact_days",
+          "outcome": "missed",
+          "expected": "2 days",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "status",
+          "outcome": "missed",
+          "expected": "approved",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "approved_by",
+          "outcome": "missed",
+          "expected": "M. Alvarez",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "co_008_scanned.pdf",
+          "field": "approval_date",
+          "outcome": "missed",
+          "expected": "2025-02-21",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "project_name",
+          "outcome": "missed",
+          "expected": "McAllen Health Center Improvement Project",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "date",
+          "outcome": "missed",
+          "expected": "2025-10-21",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "contractor",
+          "outcome": "missed",
+          "expected": "RGV Construction LLC",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "owner",
+          "outcome": "missed",
+          "expected": "The County of Hidalgo",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "line_items",
+          "outcome": "missed",
+          "expected": "2 items ($0.00): $3,075.00, -$3,075.00",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "total",
+          "outcome": "missed",
+          "expected": "$0.00",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "schedule_impact_days",
+          "outcome": "missed",
+          "expected": "8 days",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "hidalgo_tx_co1.pdf",
+          "field": "status",
+          "outcome": "missed",
+          "expected": "pending",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "sumter_county_fl_notice9.pdf",
+          "field": "change_order_number",
+          "outcome": "missed",
+          "expected": "9",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "sumter_county_fl_notice9.pdf",
+          "field": "description",
+          "outcome": "missed",
+          "expected": "Steel changes per ASI#5: slip connections at one end of each truss, East and South walls",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "sumter_county_fl_notice9.pdf",
+          "field": "line_items",
+          "outcome": "wrong",
+          "expected": "2 items ($9,700.00): $9,700.00, $0.00",
+          "got": "1 items ($0.00): $0.00",
+          "confidence": 0.72,
+          "source": "rules"
+        },
+        {
+          "document": "sumter_county_fl_notice9.pdf",
+          "field": "schedule_impact_days",
+          "outcome": "missed",
+          "expected": "0 days",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "sumter_county_fl_notice9.pdf",
+          "field": "status",
+          "outcome": "missed",
+          "expected": "approved",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "sumter_county_fl_notice9.pdf",
+          "field": "requested_by",
+          "outcome": "missed",
+          "expected": "Jay Veillette",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        },
+        {
+          "document": "sumter_county_fl_notice9.pdf",
+          "field": "approval_date",
+          "outcome": "missed",
+          "expected": "2025-01-02",
+          "got": "-",
+          "confidence": 0.0,
+          "source": "none"
+        }
+      ],
+      "avg_seconds": 0.2548
+    }
+  }
+}

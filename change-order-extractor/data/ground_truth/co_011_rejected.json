@@ -1,0 +1,37 @@
+{
+  "change_order_number": "CO-031",
+  "project_name": "Bayview Hotel Renovation",
+  "project_number": "BH-1022",
+  "date": "2025-07-22",
+  "contractor": "Coastal Interiors Inc.",
+  "owner": "Bayview Hospitality Group",
+  "description": "Additional drywall patching in guest rooms, floors 3-5.",
+  "reason": "Damage by other trades",
+  "line_items": [
+    {
+      "description": "Labor",
+      "category": "labor",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 2760.0
+    },
+    {
+      "description": "Material",
+      "category": "material",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 410.0
+    }
+  ],
+  "subtotal": null,
+  "markup_amount": null,
+  "tax_amount": null,
+  "total": 3170.0,
+  "schedule_impact_days": 3,
+  "status": "rejected",
+  "requested_by": null,
+  "approved_by": null,
+  "approval_date": null
+}
